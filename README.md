@@ -1,6 +1,5 @@
-<p align="center">
-  <img width="300" alt="shopassist-logo" src="https://github.com/Dhanasree-Rajamani/DeepLearningProject/assets/111466424/672eefbe-90d3-4d3f-ae7d-4e5635626d50">
-</p>
+![image](https://github.com/SravaniThota96/ShopAssist/assets/111466561/9f7bd348-3477-4383-9a14-780d24d31c11)
+
 
 # Shop-assist : Object-Detection-Web-App-Using-YOLOv7-and-Flask
 
